@@ -23,7 +23,7 @@
 
 ## Sequence
 - We should think about a user scrolling down a page. Panels shouldn't be considered in isolation but as part of a sequence which creates a cinematic experience
-- Flicking through a well-designed coffee table book produces a  similar effect as the layout "moves around" whilst leafing through
+- Flicking through  a well-designed coffee table book produces a  similar effect as the layout "moves around" whilst leafing through
 
 ## Alignment
 - Be delibrate with vertical axes
@@ -47,6 +47,7 @@
 3. Content
 4. Educational
 5. Portfolio
+
 
 
 ## Sitemap
