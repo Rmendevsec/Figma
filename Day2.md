@@ -13,3 +13,9 @@
 
 ## Hirarchy
 - used to guide the reader's eye to whatever is most important 
+
+## Leading 
+- The space between lines of text (also known as line spacing)
+
+## Tracking
+- 
