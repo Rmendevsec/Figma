@@ -22,3 +22,7 @@
 
 ## Kerning
 - Is the space between specific characters
+
+## Fonts VS Typefaces
+- A font is the thing we use like a specific style weight, or width within the typeface family.
+- A typeface is created by a designer and consists of a particular set of letters, numerals and punctuation.
