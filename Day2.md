@@ -2,7 +2,7 @@
 - The art and science of arranging text to be both legible and appeling
 - Style or appearance of text
 - The art of working with text
-
+- It is powerful. It can change how we feel about a message being conveyed
 ## Common Types of Fonts
 
 - **Serif**: have little stroke called serifs attached to the main part of the letter
@@ -18,4 +18,7 @@
 - The space between lines of text (also known as line spacing)
 
 ## Tracking
-- 
+- It is overall space between characters, sometimes called character spacing
+
+## Kerning
+- Is the space between specific characters
