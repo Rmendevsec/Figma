@@ -23,4 +23,7 @@
  - **White**: purity, simplicity
  - **Gray**: neutrality, structure
 
- ##
+ ## Dominant & Accent Colours
+ - We should choose 5 colors for our brand's color pallet. Include two dominant colours and three accent colours
+ - Dominant colors are our main colors.
+- Accent colours have two important roles to play. One accent color of the three should be used as a highlighter. The other two colours should be more natural and subtle, allowing us two dominant colours and our one accent colour acting as a highliter to do most of the work.
