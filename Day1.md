@@ -49,7 +49,9 @@
 5. Portfolio
 
 
+## Sitemap  
+A sitemap outlines the overall structure of the website. It shows how pages connect, helps organize content, and ensures a smooth user flow. It’s useful for planning navigation and making sure every page has a clear purpose.
 
-## Sitemap
+## Wireframes  
+Wireframes are simple visual layouts that show the structure of each page without focusing on colors or design details. They help define placement of elements, user flow, and content hierarchy before moving to high-fidelity designs.
 
-## Wireframes
