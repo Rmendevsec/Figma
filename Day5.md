@@ -1,22 +1,19 @@
-# Auto Layout 
-## What is Auto layout ?
-- It is a property that we can add to frames and components it lets us create designs that grow to fill or shrink to fit & reflow as their contents change 
-- Helps to maintain alignment as our designs evolve.
-- Keeps consistent padding and spacing between design
-- Helpful when creating responsive designs
+# Auto Layout
 
-## How to add layout ?
-- Add auto layout from the icon in the layout section of the design panel.
-- Use shortcut Shift+A to add auto layout
-- Use shortcut Shift+Ctrl+A (Ctrl+Alt+Shift+A) for suggestion auto layout
-- Right click to add auto layout
+## What is Auto Layout?
+Auto Layout is a property applied to frames and components that allows designs to automatically grow, shrink, or reflow as their content changes. It maintains alignment, keeps consistent spacing, and makes responsive design easier.
 
+## How to Add Auto Layout
+- Click the Auto Layout icon in the design panel.
+- Shortcut: **Shift + A** to add Auto Layout.
+- Shortcut: **Shift + Ctrl + A** (Ctrl + Alt + Shift + A) for Auto Layout suggestions.
+- Right–click on a frame and choose "Add Auto Layout".
 
 ## Resizing
-- Fixed = a set of size that will not change; applied to parent or child container.
-- Hug = the container will hug the contents within; applied to the parent container
-- Fill = the content will fill the container it's within; applied to the child content
-- Add a min/max value for more control over the height and width
+- **Fixed:** The size stays constant; works on parent or child.
+- **Hug:** The frame adjusts to fit its content; used on parents.
+- **Fill:** The content expands to fill the available space; used on children.
+- Min/Max values can be added for more control over width and height.
 
 ## Padding
-- 
+Padding controls the space inside a frame between its content and edges. You can set uniform padding or define individual top, right, bottom, and left values to manage spacing more precisely.
